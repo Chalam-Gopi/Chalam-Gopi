@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Chalam-Gopi
-- 👀 I’m interested in automating the web applications in java using selenium web driver.
-- 🌱 I’m currently working as a Software Test Engineer in Attra Infotech Pvt Ltd.
+- 👀 I’m expert in automating the web applications in java programming language using selenium web driver.
+- 🌱 I’m currently working as a QA Automation Engineer in Attra Infotech Pvt Ltd.
 
+Here i have automated one web app which is called pushpa movie wikipedia and imdb and will have real world example of test automation framework, which includes TestNG and page object model.
+It is designed using TestNG SO parallel execution is possible.
+It  can Capture screenshots with Date and time
+Included Base class, PageObjects ,Utility class to reduce the code and maintain the framework in efficient manner.
+Thank you..!
 
-Chalam-Gopi/Chalam-Gopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
